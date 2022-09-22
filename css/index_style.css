@@ -1,0 +1,14 @@
+.button:hover{
+    background-color: #ffc107;
+}
+h1
+{
+    font-weight: 900;
+    font-size: 70px;
+}
+p
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 35px;
+}
